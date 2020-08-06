@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Users\\Leif\\Documents\\Projects\\ESPEasyPluginPlayground"
+		},
+		{
+			"name": "SensESPTemp",
+			"path": "..\\..\\..\\..\\Users\\Leif\\Documents\\PlatformIO\\Projects\\SensESPTemp"
+		},
+		{
+			"name": "SensEspCabin",
+			"path": "..\\..\\..\\..\\Users\\Leif\\Documents\\PlatformIO\\Projects\\SensEspCabin"
+		},
+		{
+			"name": "ESp32SensorStern",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "cpp",
+			"xiosbase": "cpp"
+		}
+	}
+}
